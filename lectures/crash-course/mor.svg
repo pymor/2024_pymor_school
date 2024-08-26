@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="903.60675"
+   height="736.08984"
+   viewBox="0 0 903.60675 736.08984"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="mor.svg"
+   inkscape:export-filename="data_science1.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:connector-spacing="0"
+     showguides="true"
+     inkscape:zoom="0.96438974"
+     inkscape:cx="493.57638"
+     inkscape:cy="381.07"
+     inkscape:window-width="1920"
+     inkscape:window-height="1181"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5643"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5510"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5095"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4951"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker3619"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="3"
+       markerHeight="3"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path3617" />
+    </marker>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3603"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3589"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3575"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3561"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3547"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="3"
+       markerHeight="3"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2700"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2698"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1919"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="15"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1917"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,9,0,1 @ F,0,0,1,0,9,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="9"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1915"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1842"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,14,0,1 @ F,0,0,1,0,14,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="14"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-60.921643,-12.491334)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Ebene 2"
+       style="display:inline" />
+    <path
+       style="fill:#fff200;fill-opacity:0.139757;stroke:#403f3a;stroke-width:2.41575;stroke-linejoin:miter;stroke-miterlimit:18.8;stroke-dasharray:none;paint-order:normal"
+       d="M 74.129461,14.833216 442.2565,13.699267 a 11.963093,11.963093 44.911756 0 1 11.99994,11.963036 V 549.4893 a 12,12 45 0 0 12,12 h 186.06689 a 12,12 45 0 1 12,12 l 0,161.88399 a 12,12 135 0 1 -12,12 H 74.129518 a 12,12 45 0 1 -12,-12 l 0,-708.50311 A 12.037021,12.037021 134.91176 0 1 74.129461,14.833216 Z"
+       id="path5641"
+       inkscape:path-effect="#path-effect5643"
+       inkscape:original-d="M 62.129518,14.87018 454.25644,13.662303 V 561.4893 H 664.32333 V 747.37329 H 62.129518 Z" />
+    <g
+       id="g1414"
+       transform="translate(-382.63988,-40)">
+      <rect
+         style="fill:#00adf9;stroke-width:4.7463;stroke-miterlimit:21"
+         id="rect684"
+         width="167.62141"
+         height="96.879715"
+         x="614.87726"
+         y="73.73159"
+         rx="5"
+         ry="5" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:32px;font-family:'Meta Offc Pro';-inkscape-font-specification:'Meta Offc Pro Bold';text-align:justify;fill:#ffffff;fill-opacity:1;stroke-width:4.7463;stroke-miterlimit:21"
+         x="700.92792"
+         y="113.78745"
+         id="text243"><tspan
+           sodipodi:role="line"
+           id="tspan241"
+           x="700.92792"
+           y="113.78745"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Full Order </tspan><tspan
+           sodipodi:role="line"
+           x="700.92792"
+           y="153.78745"
+           id="tspan399"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Model</tspan></text>
+    </g>
+    <g
+       id="g1555"
+       transform="translate(0,-20)">
+      <rect
+         style="fill:#00adf9;stroke-width:3.77522;stroke-miterlimit:21"
+         id="rect802"
+         width="106.04852"
+         height="96.879715"
+         x="301.23178"
+         y="347.92313"
+         rx="5"
+         ry="5" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:32px;font-family:'Meta Offc Pro';-inkscape-font-specification:'Meta Offc Pro Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:4.7463;stroke-miterlimit:21"
+         x="353.52002"
+         y="407.06699"
+         id="text409"><tspan
+           sodipodi:role="line"
+           id="tspan407"
+           x="353.52002"
+           y="407.06699">Data</tspan></text>
+    </g>
+    <g
+       id="g1576">
+      <rect
+         style="fill:#00adf9;stroke-width:5.49849;stroke-miterlimit:21"
+         id="rect798"
+         width="224.96056"
+         height="96.879715"
+         x="399.51974"
+         y="618.73871"
+         rx="5"
+         ry="5" />
+      <g
+         id="g563"
+         transform="translate(0,45.938229)"
+         style="fill:#ffffff;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:32px;font-family:'Meta Offc Pro';-inkscape-font-specification:'Meta Offc Pro Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:4.7463;stroke-miterlimit:21"
+           x="510.63998"
+           y="612.85632"
+           id="text423"><tspan
+             sodipodi:role="line"
+             id="tspan421"
+             x="510.63998"
+             y="612.85632">Reduced Order</tspan><tspan
+             sodipodi:role="line"
+             x="510.63998"
+             y="652.85632"
+             id="tspan425">Model</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#403f3a;stroke-width:8;stroke-miterlimit:21;stroke-dasharray:none;marker-end:url(#RoundedArrow)"
+       d="m 316.04808,136.6113 10e-6,15.6149 a 10.000004,10.000004 44.999989 0 0 10,10 h 18.20795 a 10,10 45 0 1 10,10 v 133.69693"
+       id="path1655"
+       inkscape:path-effect="#path-effect3547"
+       inkscape:original-d="m 316.04808,136.6113 10e-6,25.6149 h 38.20795 v 143.69693"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#403f3a;stroke-width:8;stroke-miterlimit:21;stroke-dasharray:none;marker-end:url(#marker3619)"
+       d="m 354.25604,430.80286 v 128.83903 a 10,10 45 0 0 10,10 h 76.3127 a 10,10 45 0 1 10,10 l 0,17.09682"
+       id="path1783"
+       inkscape:path-effect="#path-effect3561"
+       inkscape:original-d="m 354.25604,430.80286 v 138.83903 h 96.3127 v 27.09682"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#403f3a;stroke-width:8;stroke-linejoin:miter;stroke-miterlimit:18.8;stroke-dasharray:none;marker-end:url(#RoundedArrow);paint-order:normal"
+       d="m 226.23738,82.17144 h -67.4825 a 10,10 135 0 0 -10,10 v 565.00712 a 10,10 45 0 0 10,10 h 218.76486"
+       id="path1840"
+       sodipodi:nodetypes="cccc"
+       inkscape:path-effect="#path-effect2700"
+       inkscape:original-d="m 226.23738,82.17144 h -77.4825 v 585.00712 h 228.76486" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:32px;font-family:'Meta Offc Pro';-inkscape-font-specification:'Meta Offc Pro Bold';text-align:center;text-anchor:middle;fill:#403f3a;fill-opacity:1;stroke:#403f3a;stroke-width:8;stroke-linejoin:miter;stroke-miterlimit:18.8;stroke-dasharray:none;paint-order:normal"
+       x="52.182281"
+       y="29.730227"
+       id="text4820"><tspan
+         sodipodi:role="line"
+         id="tspan4818"
+         x="52.182281"
+         y="29.730227" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:21.3333px;font-family:'Meta Offc Pro';-inkscape-font-specification:'Meta Offc Pro Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#403f3a;stroke-width:8;stroke-linejoin:miter;stroke-miterlimit:18.8;stroke-dasharray:none;paint-order:normal"
+       x="-387.95233"
+       y="136.69415"
+       id="text4824"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4822"
+         x="-387.95233"
+         y="136.69415"
+         style="font-size:21.3333px;fill:#403f3a;stroke:none">system-theoretic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:21.3333px;font-family:'Meta Offc Pro';-inkscape-font-specification:'Meta Offc Pro Bold';text-align:center;text-anchor:middle;fill:#403f3a;fill-opacity:1;stroke:none;stroke-width:8;stroke-linejoin:miter;stroke-miterlimit:18.8;stroke-dasharray:none;paint-order:normal"
+       x="-503.81693"
+       y="341.81335"
+       id="text4828"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4826"
+         x="-503.81693"
+         y="341.81335">snapshot-based</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:21.3333px;font-family:'Meta Offc Pro';-inkscape-font-specification:'Meta Offc Pro Bold';text-align:center;text-anchor:middle;fill:#403f3a;fill-opacity:1;stroke:none;stroke-width:8;stroke-linejoin:miter;stroke-miterlimit:18.8;stroke-dasharray:none;paint-order:normal"
+       x="-236.78723"
+       y="343.87204"
+       id="text4832"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4830"
+         x="-236.78723"
+         y="343.87204">simulation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:21.3333px;font-family:'Meta Offc Pro';-inkscape-font-specification:'Meta Offc Pro Bold';text-align:center;text-anchor:middle;fill:#403f3a;fill-opacity:1;stroke:none;stroke-width:2.41575;stroke-linejoin:miter;stroke-miterlimit:18.8;stroke-dasharray:none;paint-order:normal"
+       x="138.69948"
+       y="41.304913"
+       id="text5671"><tspan
+         sodipodi:role="line"
+         id="tspan5669"
+         x="138.69948"
+         y="41.304913">classical MOR</tspan></text>
+  </g>
+</svg>
