@@ -1,0 +1,33 @@
+.rise-enabled .jp-RenderedHTMLCommon table {
+    font-size: 150%;
+}
+
+.rise-enabled .jp-RenderedHTMLCommon p {
+    font-size: 1.5rem;
+}
+
+.rise-enabled .jp-RenderedHTMLCommon li {
+    font-size: 1.5rem;
+}
+
+.rise-enabled .jp-RenderedHTMLCommon h2 {
+    font-size: 2.9rem;
+    font-weight: bold;
+}
+
+.rise-enabled .jp-RenderedHTMLCommon h3 {
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+
+.rise-enabled .jupyter-widget-Collapse-header {
+    font-size: 1rem;
+}
+
+.rise-enabled .jupyter-widget-Collapse-header i {
+    font-size: 1rem;
+}
+
+.rise-enabled .cm-editor {
+    font-size: 1.25rem;
+}
