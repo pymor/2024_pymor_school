@@ -25,13 +25,13 @@ pyMOR School and User Meeting 2024
 # What this actually is all about:
 
 <center>
-<img src="./figures/system_fom.svg" alt="system" width="60%"/>
+<img src="/files/figures/system_fom.svg" alt="system" width="60%"/>
 </center>
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 <center>
-<img src="./figures/mor_system_fo_v2.svg" alt="mor" width="40%">
+<img src="/files/figures/mor_system_fo_v2.svg" alt="mor" width="40%">
 </center>
 
 +++ {"slideshow": {"slide_type": "subslide"}}
@@ -157,8 +157,8 @@ $$
 </td>
 <td>
 <center>
-<img src="./figures/cookie.svg" alt="cookie domain" width="30%">
-<img src="./figures/Euler_100_Tf.png" alt="cookie snapshot" width="30%">
+<img src="/files/figures/cookie.svg" alt="cookie domain" width="30%">
+<img src="/files/figures/Euler_100_Tf.png" alt="cookie snapshot" width="30%">
 </center>
 </td>
 </tr>
@@ -247,7 +247,7 @@ $$
   y(t)
   & =
     C e^{t E^{-1} A} x(0)
-    + \int_0^t C e^{\tau E^{-1} A} E^{-1} B u(t - \tau) \operatorname{d\!}\tau
+    + \int_0^T C e^{\tau E^{-1} A} E^{-1} B u(t - \tau) \operatorname{d\!}\tau
     + D u(t) \\
   & =
     C e^{t E^{-1} A} E^{-1} B
@@ -363,13 +363,16 @@ $\operatorname{Re}(s) \ge \beta$ for all $\beta > \alpha$.
 > 1. The Laplace transformation is linear, i.e.,
 >    if $f$ and $g$ are exponentially bounded,
 >    then $h := \gamma f + \delta g$ is also exponentially bounded and
+>
 >    $$
      \mathcal{L}\left\{h\right\} = \gamma\mathcal{L}\left\{f\right\} +
      \delta\mathcal{L}\left\{g\right\}
      $$
+>
 >    holds for all $\gamma, \delta \in \mathbb{C}$.
 > 2. If $f \in \mathcal{PC}^1([0, \infty), \mathbb{R}^{n})$ and $\dot{f}$ is
 >    exponentially bounded, then $f$ is exponentially bounded and
+>
 >    $$
      \mathcal{L}\bigl\{\dot{f}\bigr\}(s) = s \mathcal{L}\{f\}(s) - f(0).
      $$
@@ -463,7 +466,7 @@ fom.transfer_function.eval_tf(10j)
 slideshow:
   slide_type: ''
 ---
-fom.poles()
+
 ```
 
 +++ {"slideshow": {"slide_type": "subslide"}}
@@ -494,7 +497,7 @@ The Bode plot for $H$ consists of a ***magnitude plot*** and a ***phase plot***.
 #### Bode Plot for the Thermal Block Example
 
 <center>
-<img src="./figures/cookie_bode.svg" alt="cookie bode" width="60%">
+<img src="/files/figures/cookie_bode.svg" alt="cookie bode" width="60%">
 </center>
 
 ```{code-cell} ipython3
@@ -603,7 +606,7 @@ Suppress truncation residual through left projection.
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 <center>
-<img src="./figures/compress_A.svg" alt="compress A" width="80%">
+<img src="/files/figures/compress_A.svg" alt="compress A" width="80%">
 </center>
 
 +++ {"slideshow": {"slide_type": "subslide"}}
@@ -881,7 +884,6 @@ Then, all state trajectories decay exponentially as $t \to \infty$ and
 <!--   it moreover holds that $P = P^{\operatorname{T}} \succ 0$ and $Q = Q^{\operatorname{T}} \succ 0$. -->
 <!--   (Otherwise we just have $P = P^{\operatorname{T}} \succcurlyeq 0$ and -->
 <!--   $Q = Q^{\operatorname{T}} \succcurlyeq 0$.) -->
-
 - the $\mathcal{H}_{2}$-norm can be expressed as
 
   $$
