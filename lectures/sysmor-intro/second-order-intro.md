@@ -4,14 +4,14 @@ jupytext:
     extension: .md
     format_name: myst
     format_version: 0.13
-    jupytext_version: 1.15.0
+    jupytext_version: 1.16.4
 kernelspec:
   display_name: Python 3 (ipykernel)
   language: python
   name: python3
 ---
 
-+++ {"editable": true, "slideshow": {"slide_type": "slide"}}
++++ {"slideshow": {"slide_type": "slide"}}
 
 # Second-order Systems
 
@@ -58,7 +58,7 @@ $$
 \newcommand{\dif}[1]{\operatorname{d}\!{#1}}
 $$
 
-+++ {"editable": true, "slideshow": {"slide_type": "subslide"}}
++++ {"slideshow": {"slide_type": "subslide"}}
 
 ### Second-order State-space Systems (pyMOR: `SecondOrderModel`)
 
@@ -87,11 +87,11 @@ $$
 \end{align*}
 $$
 
-+++ {"editable": true, "slideshow": {"slide_type": "subslide"}}
++++ {"slideshow": {"slide_type": "subslide"}}
 
 ## Examples
 
-+++ {"editable": true, "slideshow": {"slide_type": "subslide"}}
++++ {"slideshow": {"slide_type": "subslide"}}
 
 ### An Artificial Fishtail ([MORWiki Artificial Fishtail](https://morwiki.mpi-magdeburg.mpg.de/morwiki/index.php/Artificial_Fishtail))
 
@@ -126,7 +126,7 @@ $$
 </tr>
 </table>
 
-+++ {"editable": true, "slideshow": {"slide_type": "subslide"}}
++++ {"slideshow": {"slide_type": "subslide"}}
 
 **Variables:**
 displacement $\vec{s}(t, \vec{z})$,
@@ -170,7 +170,7 @@ $$
 
 **+** initial and boundary conditions
 
-+++ {"editable": true, "slideshow": {"slide_type": "subslide"}}
++++ {"slideshow": {"slide_type": "subslide"}}
 
 FEM semi-discretization:
 
@@ -194,7 +194,7 @@ with
 <img src="figures/fishtail_sim1.svg" alt="fishtail sim" width="60%">
 </center>
 
-+++ {"editable": true, "slideshow": {"slide_type": "subslide"}}
++++ {"slideshow": {"slide_type": "subslide"}}
 
 ## Transfer Function
 
@@ -207,13 +207,13 @@ H(s) =
 B.
 $$
 
-+++ {"editable": true, "slideshow": {"slide_type": "fragment"}}
++++ {"slideshow": {"slide_type": "fragment"}}
 
 $$
 H \text{ is analytic in } \bbC \setminus \Lambda(M, E, K).
 $$
 
-+++ {"editable": true, "slideshow": {"slide_type": "subslide"}}
++++ {"slideshow": {"slide_type": "subslide"}}
 
 ### Sigma Magnitude Plot for the Artificial Fishtail
 
